@@ -3,7 +3,7 @@
 
 [Mod page](https://mods.curse.com/mc-mods/minecraft/222880-thermal-foundation).
 
-# Contriubiting
+# Contributing
 If you want to help then make a PR.
 
 If you find a bug you can make an issue here or post in the patch thread (linked above).
