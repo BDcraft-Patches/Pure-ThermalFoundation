@@ -1,0 +1,14 @@
+{
+	"parent": "thermalfoundation:item/tool/shield",
+	"textures": {
+		"front": "thermalfoundation:items/tool/shield_nickel_front",
+		"back": "thermalfoundation:items/tool/shield_nickel_back"
+	},
+
+	"overrides": [{
+		"predicate": {
+			"blocking": 1
+		},
+		"model": "thermalfoundation:item/tool/shield_nickel_blocking"
+	}]
+}
