@@ -1,7 +1,0 @@
-{
-	"parent": "thermalfoundation:item/tool/shield_blocking",
-	"textures": {
-		"front": "thermalfoundation:items/tool/shield_bronze_front",
-		"back": "thermalfoundation:items/tool/shield_bronze_back"
-	}
-}
